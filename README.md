@@ -1,4 +1,6 @@
-# 🏦 PicPay Open Finance Simulator 
+# 🏦 PicPay Open Finance Simulator
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pedro-Soares09/PicPay-Open-Finance-Simulator/blob/main/Emprestimo.ipynb)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
